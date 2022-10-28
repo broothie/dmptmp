@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-go install github.com/broothie/dmptmp
+go install github.com/broothie/dmptmp@latest
 ```
 
 ## Usage
